@@ -70,4 +70,4 @@ The dataset is a **synthetic, anonymized dataset** generated from real-world ban
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bank-fraud-detection.git
+   git clone https://github.com/virgiluwaoma/bank-fraud-detection.git
